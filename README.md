@@ -3,9 +3,7 @@
 
 MathRunner est un jeu réalisé avec Unity 3D dans le cadre d'un projet universitaire. Il permet à des joueurs de tout âge de s'exercer au calcul mental tout en s'amusant. 
 Dans MathRunner vous allez devoir échapper à un monstre, résoudre des calculs et sauter sur des plateformes volantes pour obtenir le meilleur score possible. 
-
-
-
+Le code du projet n'est malheuresement pas accessible ici à cause de la limitation de taille de fichier de GitHub.
 
 ## Règles
 
@@ -40,7 +38,7 @@ Bon jeu !
 
 ![Logo](https://github.com/Etsu7/MathRunner/raw/main/images/logo.jpg)
 ![Capture d'écran 1](https://github.com//Etsu7/MathRunner/raw/main/images/1.png)
-![Capture d'écran 2](https://github.com//Etsu7/MathRunnert/raw/main/images/2.png)
+![Capture d'écran 2](https://github.com//Etsu7/MathRunner/raw/main/images/2.png)
 ![Capture d'écran 3](https://github.com//Etsu7/MathRunner/raw/main/images/3.png)
 
 
